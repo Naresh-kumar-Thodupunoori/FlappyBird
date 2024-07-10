@@ -45,8 +45,12 @@ Ensure you have the following image files in the same directory as the script:
 - `pipe.png`
 - `background.png`
 
+## Demo
+[Screencast from 2024-07-10 09-47-58.webm](https://github.com/Naresh-kumar-Thodupunoori/FlappyBird/assets/140937322/4f66a5ac-8d08-4f68-89f3-70ba079c22bc)
+
 Enjoy playing!
 
 ---
 
 Developed by Naresh Kumar Thodupunoori
+
